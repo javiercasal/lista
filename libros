@@ -1,5 +1,5 @@
-titulo,descripcion,precio,imagen,oferta
-Yerba Mate "Las Tunas",Agroecológica. Elaborada con palo. Libre de gluten. Sin TACC. Estacionamiento natural.,$1500 el paquete (1kg),https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20211108_165524749_HDR.jpg,sí
-Dátiles naturales,,$1500 los 100g,https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20220314_171425710_HDR.jpg,no
-Levadura "Nutrileva",Levadura de cerveza en polvo. Libre de gluten. Sin TACC,$3400 la unidad (200g),https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20211216_171517486_HDR_2.jpg,no
-Granola,Contiene avena pasas almendras castañas de cajú copos de maíz y coco rallado,$1300 los 100g,https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20211108_175238890_HDR.jpg,no
+titulo,descripcion,precio,imagen,oferta,sinTacc
+Yerba Mate "Las Tunas",Agroecológica. Elaborada con palo. Libre de gluten. Sin TACC. Estacionamiento natural.,$1500 el paquete (1kg),https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20211108_165524749_HDR.jpg,sí,sí
+Dátiles naturales,,$1500 los 100g,https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20220314_171425710_HDR.jpg,no,no
+Levadura "Nutrileva",Levadura de cerveza en polvo. Libre de gluten. Sin TACC,$3400 la unidad (200g),https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20211216_171517486_HDR_2.jpg,no,sí
+Granola,Contiene avena pasas almendras castañas de cajú copos de maíz y coco rallado,$1300 los 100g,https://raw.githubusercontent.com/javiercasal/lista/refs/heads/main/IMG_20211108_175238890_HDR.jpg,no,no
